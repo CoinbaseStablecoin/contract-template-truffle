@@ -1,0 +1,15 @@
+.DS_Store
+build/
+node_modules/
+coverage/
+coverage.json
+package-lock.json
+.idea/
+artifacts/
+contracts/.DS_Store
+token.json
+credentials.json
+ganache-blockchain-log.txt
+.coverage_artifacts
+.coverage_contracts
+yarn-error.log
