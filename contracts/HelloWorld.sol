@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-pragma solidity 0.6.8;
+pragma solidity 0.6.11;
 
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
