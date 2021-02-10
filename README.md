@@ -79,4 +79,4 @@ $ yarn coverage
 
 ---
 
-Copyright (c) 2020 Coinbase, Inc.
+MIT License
