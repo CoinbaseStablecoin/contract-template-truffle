@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@openzeppelin/contracts": "^3.4.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "@truffle/hdwallet-provider": "^1.2.1",
     "@typechain/truffle-v5": "^4.0.1",
     "@types/chai": "^4.2.14",
